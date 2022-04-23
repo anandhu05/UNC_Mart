@@ -1,0 +1,304 @@
+<html>
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+	<link rel="icon" href="logo.png">
+    <title>Cine-Reviews</title>
+</head>
+
+<style>
+
+
+#carousel
+{
+background-image:url(theatre.png);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	height:80%;
+	
+}
+
+
+.nav
+{
+margin-left:67%;
+
+}
+
+h5,p
+{
+font-family:"Roboto";
+}
+
+a
+{
+text-decoration:none;
+}
+
+#review
+{
+padding:150px;
+}
+
+#footer
+{
+position:absolute;
+bottom:0px;
+}
+
+</style>
+<body>
+
+<div class="container-Fluid" id="carousel">
+
+  
+<nav class="navbar navbar-expand-lg navbar-light fw-bold">
+  <div class="container-fluid">
+    
+    <button class="navbar-toggler bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+	<img src="logo.png" height=50px width=75px><br>
+	
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+      <div class="navbar-nav fs-6">
+        <a class="nav-link text-light" aria-current="page" href="#">Home</a>
+        <a class="nav-link text-light" href="#">Gallary</a>
+        <a class="nav-link text-light" href="#">About</a>
+        <a class="nav-link text-light" href="#">Contact-Us</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+
+
+<marquee style="position:absolute;top:105"  behavior="scroll">
+<h2>Now streaming</h2>
+
+<a href="book.html"><img src="bhisma.png" width=90 height=120></a>
+<a href="book.html"><img src="narathan.png" width=90 height=120></a>
+<a href="book.html"><img src="bat.png" width=90 height=120></a>
+<a href="book.html"><img src="hey.png" width=90 height=120></a>
+<a href="book.html"><img src="guns.png" width=90 height=120></a>
+<a href="book.html"><img src="gan.png" width=90 height=120></a>
+<a href="book.html"><img src="mem.png" width=90 height=120></a>
+<a href="book.html"><img src="valimai.png" width=90 height=120></a>
+
+
+</marquee>  
+</div>	
+
+
+
+<div class="container-fluid" id="review">
+<h2 class="text-center">Movie Reviews</hr>
+<br>
+<br>
+
+<h2 class="text-left fw-bold">RRR movie review: SS Rajamouli delivers an epic mythological action superhero <br>bromance</h2>
+<br>
+<br>
+
+<h5 class="text-left text-dark">RRR movie review: The film casts not just one super-star, but two of them – Jr NTR and Ram Charan. 
+The biggest super-star among them all is SS Rajamouli and the audience also saved the loudest ‘taalis’ for him.</h5>
+<br>
+<br>
+<div class="text-center">
+  <img class="text-center" src="rrr.png" height=600px width=900px>
+</div>
+
+<br>
+<br>
+<p class="text-left text-dark">
+RRR is a roaring, rearing, rousing mix of genres — epic-mythological-action-superhero-bromance, that very SS Rajamouli concoction,
+ which we are invited to swallow in one humungous gulp. It is also, needless to say, deafeningly loud. But given that the 
+ film compelled me to stay with it, and granted me much fun while at it, I was happy, for once, to sacrifice my ears temporarily. 
+ The three hours plus film, a patriotic saga set in British India in the 1920s, proves several things in one go. That, for Indian
+ filmmakers and viewers, there will never be a greater, more durable fount of stories than the Ramayan and the Mahabharat. That, 
+ if you want to be really safe, you cast not just one super-star, but two of them. And that if you want big, you go only to Rajamouli, 
+the biggest super-star of them all: the loudest ‘taalis’ were reserved for his blink-and-miss in the final credits.
+</p>
+<br>
+
+<p class="text-left text-dark">
+RRR also proves that while the overarching iconography of his films is Hindu, just like in ‘Baahubali’, it is entirely possible to use it without demonising, 
+or othering minorities, even giving the latter a brief look-see in the proceedings. One of his heroes is not just called Ram aka Alluri Sitarama Raju (Ram Charan), 
+he also appears in the ‘dhanush-baan-teer-kamaan’ avatar, to vanquish the evil invaders of our beloved land. And the love of Ram’s life is called, what else, Sita 
+(Alia Bhatt). The other hero goes briefly by the name of Akhtar (let no one say there were no Muslims in this tale, see) before switching to his original, Komaram Bheem 
+(Jr NTR), a Gond tribal who turns into a revolutionary.</p>
+<br>
+
+<p class="text-left text-dark">
+Ajay Devgn comes on as a brave rebel who teaches the young Ram to aim straight and true, Shriya Saran his equally brave wife, and Makrand Deshpande in a walk-on
+ without much to do. Alia Bhatt has just a bit more screen space, but manages to look her part. These occasional darts aside, the film keeps homing back to its 
+ two Rs, lovingly slavering over their rippled bodies performing undying valourous acts. R and R shoot and scoot, and end with a triumphant pan-India, mera Bharat 
+ mahaan anthem, with that glimpse of the third R.</p>
+<br>
+<p class="text-left text-dark">
+RRR movie cast: Jr NTR, Ram Charan, Ajay Devgn, Alia Bhatt, Olivia Morris, Ray Stevenson, Alison Doody, Shriya Saran<br>
+RRR movie director: S S Rajamouli<br>
+RRR movie rating: 3.5 stars
+</p>
+</h5>
+
+
+<br>
+<br>
+
+
+<h2 class="text-left fw-bold">K.G.F: Chapter 2’ movie review: Yash and Prashanth Neel’s film is an unabashed celebration <br>of hyper-masculinity</h2>
+<br>
+<br>
+
+<h5 class="text-left text-dark">Filmmaker Prashanth Neel corrects some of the wrongs of the first part in this sequel, which is electrifying for sure — but 
+<br>also a bit of a drag in the middle portion</h5>
+<br>
+<br>
+<div class="text-center">
+  <img class="text-center" src="kgf.png" height=600px width=900px>
+</div>
+
+<br>
+<br>
+<p class="text-left text-dark">
+Spoilers ahead…
+
+There is something outlandish yet gorgeous about the K.G.F franchise that they no longer make such films. That they no longer imagine scenes propelled
+ by absolute madness. After all, K.G.F films are written on steroids. 
+</p>
+<p class="text-left text-dark">
+There is a moment in K.G.F: Chapter 2, where Rocky Bhai (a rocking Yash, bathed and cleansed in masculine orgy) takes a machine gun out to blow up
+ a police station, in the garb of a “field test”. With a cigarette hanging from his lip, he fires aimlessly to show his prowess as bullets zoom past 
+ the station and everything in between. Bullet casings drop to the ground and Bhai walks in slow-motion to light up his cigarette from the gun’s nozzle 
+ with an equally electrifying background score by Ravi Basrur. 
+</p>
+<p class="text-left text-dark">
+There, in that one single shot, Prashanth Neel highlights what the K.G.F films are for: to create a delirious cinematic experience, where there is barely 
+any time for us to contemplate logic and sense. There is only one way to look at K.G.F for it to work for you and that is to partake in the madness it offers — 
+from scene to scene; one set piece to another; one giddy stunt choreography to the next.
+</p>
+<p class="text-left text-dark">
+The most amazing achievement of Prashanth Neel has got to be the marrying of the Hollywood motifs from influential figures — Coppola, Scorsese, Mel Gibson to
+ Peter Jackson and George Miller — with masala flourishes from Indian filmmakers. This meeting of the two worlds is powerful and visceral, even if it remains 
+ just a possibility throughout. Let me illustrate this marriage with the most terrific scene of K.G.F Chapter 2 which concerns Bhai but isn’t about him. 
+</p>
+<p class="text-left text-dark">
+Reena (played by Srinidhi Shetty) attempts to convey to Bhai that she is pregnant with his child. She doesn’t straight away tell him but drops hints that Bhai, 
+who is preoccupied with business, doesn’t catch. Now, the usual way is to make Reena say she’s going to become a mother or Bhai is going to become a father. 
+Instead, she says, “ amma vara poranga,” a callback to Bhai’s emotional struggle with memories of his mother. Not to mention the lullaby score in the background. 
+I choked. This is masala and it is pure. 
+</p>
+<p class="text-left text-dark">
+Come to think of it, the only emotional stake that is anchoring both the K.G.F films is the sufferings of Bhai’s mom, which again is a throwback to a popular trope
+ from the masala universe of a previous era — but. There is something singularly distinct about Prashanth Neel’s idea of masala in comparison to SS Rajamouli’s, who, 
+ we must acknowledge, brought about a much-needed renaissance to the masala tradition of Indian cinema. Neel’s films are more focused on the extremes, while Rajamouli’s 
+ are a work of visionary.</p>
+
+<p class="text-left text-dark">
+Speaking of tradition, it is truly a remarkable decision to cast Sanjay Dutt as Adheera. There could possibly be no other actor to have done justice to a film universe 
+teething with masculine rage than Dutt, who used to be the poster boy of hyper-masculinity at one point. Remember Vaastav? Khal Nayak? But the reason to induct Dutt 
+appears as if Prashanth Neel wanted the actor to repeat his menacing looks as Kancha from Agneepath. Although when Yash and Dutt face-off, it does feel like the latter
+ has passed on the hyper-masculine muscle man that he is known for, to the former.</p>
+ 
+
+<p class="text-left text-dark">
+RRR movie cast: Yash ; Sanjay Dutt; Srinidhi Shetty;Raveena Tandon; Anant Nag <br>
+RRR movie director: Prashanth Neel<br>
+RRR movie rating: 4.3 stars
+</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<div class="container-fluid bg-dark text-white fs">
+
+
+<br>
+<div class="row">
+
+<div class="col">
+
+<a class="text-white" href="Taj_home.html">Home</a>
+</div>
+
+<div class="col"><a class="text-white" href="about.html">About</a></div>
+<div class="col"><a class="text-white" href="#">Terms & Conditions</a></div>
+<div class="col"><a class="text-white" href="#">Privacy Policy</a></div>
+<div class="col"><a class="text-white" href="Taj_gallary.html">Gallery</a></div>
+<div class="col"><a class="text-white" href="#">Upcoming Movies</a></div>
+
+
+<br>
+<br>
+
+<div class="row">
+<div class="col-6">
+<ul type="none">
+<li><h6 style="font-size:12px">Copyrights 2022 All Rights Reserved.    Deisgn & Develop By anandhu.in</h6><li>
+</ul>
+</div>
+
+<div class="col-6">
+
+<section style="display:flex" class="justify-content-end">
+<ul type="none">
+<li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+  <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+</svg></li>
+</ul>
+
+<ul type="none">
+<li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-messenger" viewBox="0 0 16 16">
+  <path d="M0 7.76C0 3.301 3.493 0 8 0s8 3.301 8 7.76-3.493 7.76-8 7.76c-.81 0-1.586-.107-2.316-.307a.639.639 0 0 0-.427.03l-1.588.702a.64.64 0 0 1-.898-.566l-.044-1.423a.639.639 0 0 0-.215-.456C.956 12.108 0 10.092 0 7.76zm5.546-1.459-2.35 3.728c-.225.358.214.761.551.506l2.525-1.916a.48.48 0 0 1 .578-.002l1.869 1.402a1.2 1.2 0 0 0 1.735-.32l2.35-3.728c.226-.358-.214-.761-.551-.506L9.728 7.381a.48.48 0 0 1-.578.002L7.281 5.98a1.2 1.2 0 0 0-1.735.32z"/>
+</svg></li>
+</ul>
+
+
+<ul type="none">
+<li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+  <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+</svg></li>
+</ul>
+
+
+<ul type="none">
+<li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 16 16">
+  <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/>
+</svg></li>
+</ul>
+
+</section>
+</div>
+</div>
+
+
+<br>
+
+</div>

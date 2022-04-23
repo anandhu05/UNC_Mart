@@ -1,0 +1,42 @@
+<html>
+<title>Mykart</title>
+<style>
+body{
+background-image:url("seat.png");
+background-repeat:no-repeat;
+background-size:100% 100%;
+}
+a{
+text-decoration:none;
+color:white;
+}
+</style>
+
+<body>
+ <a href="home.html"><img src="logo.png" width=50 height=50><h2>&nbspHome</h2></a>
+
+<form style="position:absolute;left:650;top:150;color:white;">
+<h2>book my show</h2>
+Movie Name : <select name="movie">
+<option>Bheeshma parvam</option>
+<option>Narathan</option>
+<option>Aaraattu </option>
+<option>Mahaan</option>
+<option>Member Rameshan 9aam Ward</option>
+<option>Valimai</option>
+<option>Batman</option>
+</select>
+
+<h3>select show :</h3>
+ <input type="radio" name="time">02:30 PM
+<input type="radio" name="time">06:00 PM
+<input type="radio" name="time">09:15 PM
+<br>
+<br>
+<button>Book my show</button>
+
+</form>
+<br>
+<img src="cinema_ticket.jpg" width=1550 height=200 style="position:absolute;top:550;">
+</body>
+</html>
